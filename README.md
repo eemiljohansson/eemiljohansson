@@ -32,10 +32,10 @@
 🔬 Experienced with Olink, Luminex, and data integration tools like MOFA and DIABLO  
 📊 Skilled in R, Python, and data visualization 📈  
 💡 Contributor to the Human Protein Atlas 🧫 (Blood section)  
-🗣️ Science communicator and educator — also teaching applied proteomics  
+🗣️ Science communicator and educator — assistant teacher in [applied proteomics](https://www.kth.se/student/kurser/kurs/CB2110?l=en)   
 🌱 Curious mind, collaborative spirit, and always eager to learn more  
 
-📫 Let’s connect: [emil.johansson@scilifelab.se](mailto:emil.johansson@scilifelab.se) | [LinkedIn](https://www.linkedin.com/in/emil-johansson-525928180/)
+📫 Let’s connect: [emil.johansson@scilifelab.se](mailto:emil.johansson@scilifelab.se) | [LinkedIn](https://www.linkedin.com/in/emil-johansson-525928180/)  
 
 <!-- Languages and Tools -->
 <div align="center">
