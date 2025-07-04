@@ -9,9 +9,7 @@
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/emil-johansson-525928180/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a> 
 
   <!-- SciLifeLab Gmail -->
   <a href="mailto:emil.johansson@scilifelab.se" target="_blank">
