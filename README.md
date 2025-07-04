@@ -35,7 +35,7 @@
 🗣️ Science communicator and educator — assistant teacher in [applied proteomics](https://www.kth.se/student/kurser/kurs/CB2110?l=en)   
 🌱 Curious mind, collaborative spirit, and always eager to learn more  
 
-📫 Let’s connect: [emil.johansson@scilifelab.se](mailto:emil.johansson@scilifelab.se) | [LinkedIn](https://www.linkedin.com/in/emil-johansson-525928180/)  
+📫 Let’s connect: [emil.johansson@scilifelab.se](mailto:emil.johansson@scilifelab.se) | [emilj6@kth.se](mailto:emilj6@kth.se) | [LinkedIn](https://www.linkedin.com/in/emil-johansson-525928180/)  
 
 <!-- Languages and Tools -->
 <div align="center">
