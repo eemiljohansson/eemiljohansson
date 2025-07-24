@@ -49,7 +49,7 @@
 <!-- GitHub Stats -->
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=eemiljohansson&show_icons=true&locale=en" alt="buenoalvezm" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eemiljohansson&" alt="buenoalvezm" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=eemiljohansson&show_icons=true&locale=en" alt="eemiljohansson" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eemiljohansson&" alt="eemiljohansson" /></td>
   </tr>
 </table>
